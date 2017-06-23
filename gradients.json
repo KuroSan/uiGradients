@@ -737,6 +737,7 @@
         "colors": ["#bdc3c7", "#2c3e50"]
     },
     {
+        
         "name": "Dania",
         "colors": ["#BE93C5", "#7BC6CC"]
     },
@@ -997,5 +998,9 @@
     {
       "name": "Purpink",
       "colors": ["#7F00FF", "#E100FF"]
+    },
+    {
+      "name": "Okudaira",
+      "colors": ["#f1592b", "#843594"]
     }
 ]
